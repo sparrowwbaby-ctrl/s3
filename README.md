@@ -70,7 +70,7 @@ CI/CD pipeline for automated execution
 
 Deployment-ready inference pipeline
 
-🛠️ Tech Stack
+🛠️ Tech Stacks
 
 Programming: Python
 
@@ -80,7 +80,7 @@ MLOps: AWS S3, GitHub Actions, Docker (optional), MLflow/DVC (optional)
 
 Version Control: Git & GitHub
 
-📌 Use Case
+📌 Use Cases
 
 Educational analytics
 
